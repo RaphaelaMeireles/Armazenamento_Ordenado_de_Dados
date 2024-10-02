@@ -1,0 +1,3 @@
+C:/Users/renat/OneDrive/Documentos/UniFagoc/2ºPeriodo/Alg. e Estrutura de Dados/Fila&Pila/cmake-build-debug/CMakeFiles/FilaePilha.dir
+C:/Users/renat/OneDrive/Documentos/UniFagoc/2ºPeriodo/Alg. e Estrutura de Dados/Fila&Pila/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/renat/OneDrive/Documentos/UniFagoc/2ºPeriodo/Alg. e Estrutura de Dados/Fila&Pila/cmake-build-debug/CMakeFiles/rebuild_cache.dir
